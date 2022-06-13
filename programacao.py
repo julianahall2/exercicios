@@ -1,3 +1,5 @@
+#Juliana Azeredo Hall
+
 def e_primo(numero):
     if numero > 1:
         for i in range(2, numero):
